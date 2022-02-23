@@ -15,6 +15,6 @@ class PageController extends Controller
     }
 
     public function articles($id) {
-        echo "Halaman articles dengan ID ". $id;
+        echo "Halaman Artikel dengan ID ". $id;
     }
 }
